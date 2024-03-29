@@ -1,21 +1,29 @@
 🌺 My Personal Site     💼 LinkedIn Profile       📄 My Resume       👩🏻‍💻 Work GitHub      
 
-Education
+**Education**
+
 👩🏽‍🎓 M.Sc. Computer Science, St. Joseph's University, Bengaluru
 
-Summary
+**Summary**
+
 👩🏽‍💻 Data Analyst, with a passion for digging deep into the data field.
+
 
 🏢 Working as a data analyst intern at GeeksforGeeks.
 
+
 ✍🏽 Currently going through the Power BI, Python, ML concepts and databases.
 
-Technical Skills
-Programming Languages
+**Technical Skills**
+
+**Programming Languages**
+
 🔡 Java | Python | SQL (MySQL) | R
 
-Frameworks & Libraries
+**Frameworks & Libraries**
+
 ⚛ Pandas | Seaborn | Scikit-learn | Matplotlib | NumPy
 
-Developer & Misc. Tools
+**Developer & Misc. Tools**
+
 🛠️ Figma | Vercel | Git/GitHub | Eclipse | Android Studio | Google App Engine
