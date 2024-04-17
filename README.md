@@ -1,4 +1,4 @@
-🌺 My Personal Site     💼 LinkedIn Profile       📄 My Resume       👩🏻‍💻 Work GitHub      
+🌺 [My Work Portfolio](https://www.linkedin.com/in/srishti-mishra-41b82b250/)      💼 [My LinkedIn Profile](https://www.linkedin.com/in/srishti-mishra-41b82b250/)   
 
 **Education**
 
